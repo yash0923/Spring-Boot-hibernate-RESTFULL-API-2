@@ -34,7 +34,7 @@ this app will start running on http://localhost:8080/api/book
 3.) To retrieving the single data from database (use get method)(choose get method in postman)
 
 
-   http://localhost:8080/api/book/{id}          eg (1 or 2 or 3 etc......)
+   http://localhost:8080/api/book/{id}               eg (1 or 2 or 3 etc......)
    
    
 4.) To update the data or record (use put method)( choose put method in postman)
@@ -54,5 +54,5 @@ this app will start running on http://localhost:8080/api/book
 5.) to delete the data from database (use delete method)( choose delete method in postman)
 
 
-    http://localhost:8080/api/book/{id}     eg  (1 or 2 or 3 etc....)
+    http://localhost:8080/api/book/{id}                 eg  (1 or 2 or 3 etc....)
 
